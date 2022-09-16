@@ -1,16 +1,5 @@
 # otp_generator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About this app
+<img src="https://user-images.githubusercontent.com/111631451/190553550-1c5910f9-0559-49a2-864c-d642893f937a.png
+" style="height:550px"/>
